@@ -2,8 +2,8 @@
 A Java Spelling Game
 
 
- Updated 5 days ago
-ABC pup is 2D vector art app game developed in Java for Android.
+
+ABC pup is 2D vector art app game developed in Java for Android. The code is stored on a private reository.
 
 It is a spelling game inspired by Benchmark Universe Spelling Curriculum, which is the current curriculum used across the United States for Language Arts.
 
