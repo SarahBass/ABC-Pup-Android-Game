@@ -15,9 +15,11 @@ Vowel Bubbles fly in the air( a , e , i, o , u) and you can drag them to complet
 
 For example : C_T -> cut, cot or cat would all be excellent answers, but if you are learning short a, we want to focus on that. A picture of a cat will appear on their scoreboard when they choose cat, but they will not be penalized for choosing cot or cut. An animation of those words (cot, cut) will appear, but they won't earn points.
 
-Solar system 1: 5 levels -short vowels.
 
-Solar system 2: 5 levels - long vowels.
+
+Solar system 1: 5 levels -short vowels a e i o u.
+
+Solar system 2: 5 levels - long vowels a e i o u.
 
 Solar system 3: 3 levels - ar, or - r controlled
 
@@ -35,8 +37,13 @@ Solar System 9: 5 levels oo, ow, ou, oi, oa
 
 Solar System 10: 4 levels ue, ui, ua, uo
 
+Each level has difficulty settings available: kinder, 1, 2, 3. That means each level has about 15 games. 
+
 When you pass all 10 solar systems , the player will have more than 31 space dogs for 31 levels. Each level coordinates with a dog with the same spelling solar system level 1: A , is a lab (Labrador ) because of the short a sound in the middle. ((An Akita would not be a short a sound, but a schwa e sound.)) As the levels increase , the level of reading required for dog name increases. When you click on the dog name it reads the name for the child emphasizing the spelling pattern. Level 1 dogs are Lab, Ken (kishu ken), pit (pitbull) ,pom (pomeranian), pug For example.
 
 Bonus dogs with similar spelling patterns can be earned while playing.
 
 Levels will include 31 different planets with different themes. As the child plays, any correct word they spell will be added to their dictionary with a picture.
+
+Spelling gamealso features dog dictionary, a prize space ship with 5 (a room for each vowel: a e i o u)rooms that allow player to decorate and interact with prizes, and  a choice of 8 avatars.
+
